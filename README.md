@@ -15,3 +15,5 @@ Exit the system
 
 The system keeps running (using loops) until the user chooses to exit.
 ___________________________________________________________________________________________
+3.Multiplication Table Generator:
+* Enter table no to generate table.
